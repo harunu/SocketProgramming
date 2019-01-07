@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Socket Programming</label>
+	</settings>
+	<users>
+		<user>
+			<path>Socket Programming.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Client\Client.jcp</path>
+		</project>
+		<project>
+			<path>Socket Programming.jcp</path>
+		</project>
+	</projects>
+</workspace>
